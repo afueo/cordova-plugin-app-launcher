@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/afueo/cordova-plugin-app-launcher/issues"
   },
-  "homepage": "https://github.com/afueo/cordova-plugin-app-launcher#readme"
+  "homepage": "https://github.com/afueo/cordova-plugin-app-launcher#readme" ,
+  "cordova": {"platforms": ["android",]},"dependencies": {"cordova-android": "4.0.0"}
 }
